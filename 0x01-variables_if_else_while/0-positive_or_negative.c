@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-#include <stdlib.h>
 /* betty style doc for function main goes there */
 /**
  * main - Program showing positive and negative integer
