@@ -12,7 +12,7 @@ for (bet = 'a'; bet <= 'z'; bet++)
 {
 if (bet != 'e' && bet != 'q')
 putchar(bet);
-putchar('\n');
 }
+putchar('\n');
 return (0);
 }
