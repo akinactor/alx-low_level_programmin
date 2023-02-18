@@ -8,7 +8,7 @@ int main(void)
 {
 int dee;
 
-for (dee = 0; dee <= 10; dee++)
+for (dee = 0; dee < 10; dee++)
 
 printf("%d", dee);
 
