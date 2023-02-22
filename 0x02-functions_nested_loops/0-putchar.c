@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - The entry point
+ * main - The entry point of puthchar
  * Return: The return value is 0
  */
 int main(void)
@@ -13,7 +13,6 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
--putchar('\n');
-
+_putchar('\n');
 return (0);
 }
