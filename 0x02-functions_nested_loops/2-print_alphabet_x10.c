@@ -10,7 +10,8 @@ while (i < 10)
 char alph;
 for (alph = 'a'; alph <= 'z'; alph++)
 _putchar(alph);
+_putchar('\n');
 i++;
 }
-_putchar('\n');
+
 }
