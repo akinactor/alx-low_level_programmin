@@ -27,5 +27,6 @@ for (x = 0; x < size; x++)
 	}
 _putchar('\n');
 	}
-
+	}
+ return;
 	}
