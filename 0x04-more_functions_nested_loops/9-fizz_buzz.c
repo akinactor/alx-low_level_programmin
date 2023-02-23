@@ -19,12 +19,12 @@ printf("Fizz");
 }
 if (i % 5 == 0)
 {
-printd("Buzz");
+printf("Buzz");
 }
 
-printf(i);
+printf("%d\n", i);
 
-printf('\n');
+printf("\n");
 
 }
 return (0);
