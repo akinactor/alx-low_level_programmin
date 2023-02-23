@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <math.h>
+#include <stdio.h>
 /**
  * main - entry point
  * Return: return 0
@@ -15,9 +16,9 @@ for (w = 1; w <= square; w++)
 {
 if (number % w == 0)
 	{
-	maxi = number / x;
+	maxi = number / w;
 	}
 }
-printf("\ld\n", maxi);
+printf("%ld\n", maxi);
 return (0);
 }
