@@ -1,0 +1,12 @@
+#include "main.h"
+/**
+ * _isupper - Entry point for function that prints uppercase letter
+ * c: the value of character
+ * Return: the return value int
+ */
+int _isupper(int c)
+{
+  for(c = 'a';  <= 'Z
+
+
+}
