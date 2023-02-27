@@ -11,6 +11,7 @@ int k  = 98;
 n = &k;
 
 *n = k;
+n = 98;
 
 return;
 
